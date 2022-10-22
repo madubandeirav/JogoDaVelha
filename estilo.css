@@ -22,8 +22,8 @@ h1{
     margin-bottom: -1.9em;
     color: #6C4899;
     text-transform: uppercase;
-    letter-spacing: 1.5px;
-    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.181);
+    letter-spacing: 1.3px;
+    
     line-height: 1.2em;
   color: #0000;
   text-shadow: 
@@ -141,7 +141,7 @@ h1:hover{
     flex-direction: column;
 }
 .winning-message-button{
-    font-size: 3rem;
+    font-size: 2.5rem;
     background-color: #509964;
     border: none;
     border-radius: 50px;
@@ -155,7 +155,7 @@ h1:hover{
     color:  #509963d1;
 }
 .winning-message-text{
-    font-size: 5em;
+    font-size: 3em;
     border-radius: 20px;
     padding: 15px;
     background-color: #509963;
